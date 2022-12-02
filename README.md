@@ -1,4 +1,4 @@
-# TestWPFWithLibary
+# TestWPFWithLibrary
 A very simple WPF application to show using a library.
 
 The executable and the library are .Net Framework 4.7.2 and shows a very simple UI:
